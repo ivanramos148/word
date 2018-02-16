@@ -1,6 +1,6 @@
-# Anagram
+# Word Counter
 
-#### By Frank Ngo
+#### By Ivan Ramos
 
 ## Description
 
@@ -8,26 +8,21 @@ A program to test if a set of words are anagrams of another word.
 
 ## Specifications
 
-  * Check that the user can enter in a word into the first field for the word to test.
-  * Check that the user can enter in words into the test field for the words to test from.
-    * Check if the user entered in case sensitive characters
-      * Expected Input: 'dog'
-      * Expected Output: True
-      * Expected Input: 'Dog'
-      * Expected Output: True
-    * Check if the user entered in a alphanumeric character
-      * Expected Input: '3dog'
-      * Expected Output: True
-    * Check if the user entered in a special character
-      * Expected Input: '$dog'
-      * Expected Output: False
-  * Check that the form proceeds and user can enter in information.
+  *
+    * Example Input:
+    * Example Output:
+  *
+    * Example Input:
+    * Example Output:
+  *
+    * Example Input:
+    * Example Output:
 
 ### Installing
 
   * Open Terminal
   * Cd to desktop or where user would like to store directory by typing in: cd Desktop
-  * Copy application contents by typing in your Terminal: git clone https://github.com/FrankNgo/Address-Book.git
+  * Copy application contents by typing in your Terminal: git clone https://github.com/IvanRamos
   * Navigate to the application directory by typing in: cd Address-Book
   * Restore the applications dependencies by typing in: dotnet restore
   * Build the application by typing in: dotnet build
@@ -52,8 +47,8 @@ No known bugs
 
 ## Author and contact details
 
-* Frank Ngo https://github.com/FrankNgo
-* Contact the author at frankngomusic@gmail.com
+* Ivan Ramos https://github.com/Ivanramos148
+* Contact the author at Ivanramos148248@gmail.com
 
 ## License
 
